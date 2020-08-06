@@ -1,4 +1,8 @@
 hello 
+<<<<<<< HEAD
 apple
+=======
+orange
+>>>>>>> 40e4cea263214e858d7157541a70cb3fc03b9b3e
 
 sat sri akaal
